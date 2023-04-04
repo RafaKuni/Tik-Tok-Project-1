@@ -35,4 +35,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
