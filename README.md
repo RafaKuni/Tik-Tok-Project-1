@@ -25,5 +25,5 @@ Esse projeto foi construido no workshop da EBAC - Jornada Dev Full Stack
 <div>
 <a href="https://github.com/lhnl007hm">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnl007hm&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hmi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
