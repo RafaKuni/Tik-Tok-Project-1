@@ -10,10 +10,10 @@
 
 <ul>
   <li><a href="https://tiktok---jornada-1be60.firebaseapp.com/">Projeto Online</a></li>
-  <li>[Link Vinil](https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/vinil.png)</li>
-  <li>[Link Vídeo 1](https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/brecker2.mp4)</li>
-  <li>[Link Vídeo 2](https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/bird.mp4)</li>
-<ul>
+  <li><a href="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/vinil.png">Link Vinil</a></li>
+  <li><a href="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/brecker2.mp4">Link Vídeo 1</a></li>
+  <li><a href="https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/bird.mp4">Link Vídeo 2</a></li>
+</ul>
   
   
 # **Informações do Desenvolvedor**
